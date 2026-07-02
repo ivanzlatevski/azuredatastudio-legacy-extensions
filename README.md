@@ -1,2 +1,3 @@
 # azuredatastudio-legacy-extensions
-Rebuilt VSIX packages for legacy Azure Data Studio extensions from the archived Microsoft Azure Data Studio repository.
+This repository provides rebuilt .vsix packages for selected Azure Data Studio extensions from Microsoft’s archived azuredatastudio repository. It is intended as a community-accessible mirror for users who still need these legacy extensions after Azure Data Studio was archived.
+Extensions are provided as-is, built from the original source, with no affiliation to Microsoft.
